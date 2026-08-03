@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v10.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v10.0": {
+      "Variabel_TipeData_dan_OperasiSederhana(eps3)/1.0.0": {
+        "runtime": {
+          "Variabel_TipeData_dan_OperasiSederhana(eps3).dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Variabel_TipeData_dan_OperasiSederhana(eps3)/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

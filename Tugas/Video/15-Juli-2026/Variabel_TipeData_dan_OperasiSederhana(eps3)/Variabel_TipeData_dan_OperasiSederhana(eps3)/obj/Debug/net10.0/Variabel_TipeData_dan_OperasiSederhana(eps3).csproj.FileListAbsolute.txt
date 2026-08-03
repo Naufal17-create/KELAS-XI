@@ -1,0 +1,14 @@
+C:\xampp\htdocs\Kelas 11 (Naufal)\Variabel_TipeData_dan_OperasiSederhana(eps3)\Variabel_TipeData_dan_OperasiSederhana(eps3)\bin\Debug\net10.0\Variabel_TipeData_dan_OperasiSederhana(eps3).exe
+C:\xampp\htdocs\Kelas 11 (Naufal)\Variabel_TipeData_dan_OperasiSederhana(eps3)\Variabel_TipeData_dan_OperasiSederhana(eps3)\bin\Debug\net10.0\Variabel_TipeData_dan_OperasiSederhana(eps3).deps.json
+C:\xampp\htdocs\Kelas 11 (Naufal)\Variabel_TipeData_dan_OperasiSederhana(eps3)\Variabel_TipeData_dan_OperasiSederhana(eps3)\bin\Debug\net10.0\Variabel_TipeData_dan_OperasiSederhana(eps3).runtimeconfig.json
+C:\xampp\htdocs\Kelas 11 (Naufal)\Variabel_TipeData_dan_OperasiSederhana(eps3)\Variabel_TipeData_dan_OperasiSederhana(eps3)\bin\Debug\net10.0\Variabel_TipeData_dan_OperasiSederhana(eps3).dll
+C:\xampp\htdocs\Kelas 11 (Naufal)\Variabel_TipeData_dan_OperasiSederhana(eps3)\Variabel_TipeData_dan_OperasiSederhana(eps3)\bin\Debug\net10.0\Variabel_TipeData_dan_OperasiSederhana(eps3).pdb
+C:\xampp\htdocs\Kelas 11 (Naufal)\Variabel_TipeData_dan_OperasiSederhana(eps3)\Variabel_TipeData_dan_OperasiSederhana(eps3)\obj\Debug\net10.0\Variabel_TipeData_dan_OperasiSederhana(eps3).GeneratedMSBuildEditorConfig.editorconfig
+C:\xampp\htdocs\Kelas 11 (Naufal)\Variabel_TipeData_dan_OperasiSederhana(eps3)\Variabel_TipeData_dan_OperasiSederhana(eps3)\obj\Debug\net10.0\Variabel_TipeData_dan_OperasiSederhana(eps3).AssemblyInfoInputs.cache
+C:\xampp\htdocs\Kelas 11 (Naufal)\Variabel_TipeData_dan_OperasiSederhana(eps3)\Variabel_TipeData_dan_OperasiSederhana(eps3)\obj\Debug\net10.0\Variabel_TipeData_dan_OperasiSederhana(eps3).AssemblyInfo.cs
+C:\xampp\htdocs\Kelas 11 (Naufal)\Variabel_TipeData_dan_OperasiSederhana(eps3)\Variabel_TipeData_dan_OperasiSederhana(eps3)\obj\Debug\net10.0\Variabel_TipeData_dan_OperasiSederhana(eps3).csproj.CoreCompileInputs.cache
+C:\xampp\htdocs\Kelas 11 (Naufal)\Variabel_TipeData_dan_OperasiSederhana(eps3)\Variabel_TipeData_dan_OperasiSederhana(eps3)\obj\Debug\net10.0\Variabel_TipeData_dan_OperasiSederhana(eps3).dll
+C:\xampp\htdocs\Kelas 11 (Naufal)\Variabel_TipeData_dan_OperasiSederhana(eps3)\Variabel_TipeData_dan_OperasiSederhana(eps3)\obj\Debug\net10.0\refint\Variabel_TipeData_dan_OperasiSederhana(eps3).dll
+C:\xampp\htdocs\Kelas 11 (Naufal)\Variabel_TipeData_dan_OperasiSederhana(eps3)\Variabel_TipeData_dan_OperasiSederhana(eps3)\obj\Debug\net10.0\Variabel_TipeData_dan_OperasiSederhana(eps3).pdb
+C:\xampp\htdocs\Kelas 11 (Naufal)\Variabel_TipeData_dan_OperasiSederhana(eps3)\Variabel_TipeData_dan_OperasiSederhana(eps3)\obj\Debug\net10.0\Variabel_TipeData_dan_OperasiSederhana(eps3).genruntimeconfig.cache
+C:\xampp\htdocs\Kelas 11 (Naufal)\Variabel_TipeData_dan_OperasiSederhana(eps3)\Variabel_TipeData_dan_OperasiSederhana(eps3)\obj\Debug\net10.0\ref\Variabel_TipeData_dan_OperasiSederhana(eps3).dll

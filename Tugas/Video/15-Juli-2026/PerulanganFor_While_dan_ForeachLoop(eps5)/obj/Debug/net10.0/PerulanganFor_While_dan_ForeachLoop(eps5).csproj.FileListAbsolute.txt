@@ -1,0 +1,14 @@
+C:\xampp\htdocs\Kelas 11 (Naufal)\PerulanganFor_While_dan_ForeachLoop(eps5)\bin\Debug\net10.0\PerulanganFor_While_dan_ForeachLoop(eps5).exe
+C:\xampp\htdocs\Kelas 11 (Naufal)\PerulanganFor_While_dan_ForeachLoop(eps5)\bin\Debug\net10.0\PerulanganFor_While_dan_ForeachLoop(eps5).deps.json
+C:\xampp\htdocs\Kelas 11 (Naufal)\PerulanganFor_While_dan_ForeachLoop(eps5)\bin\Debug\net10.0\PerulanganFor_While_dan_ForeachLoop(eps5).runtimeconfig.json
+C:\xampp\htdocs\Kelas 11 (Naufal)\PerulanganFor_While_dan_ForeachLoop(eps5)\bin\Debug\net10.0\PerulanganFor_While_dan_ForeachLoop(eps5).dll
+C:\xampp\htdocs\Kelas 11 (Naufal)\PerulanganFor_While_dan_ForeachLoop(eps5)\bin\Debug\net10.0\PerulanganFor_While_dan_ForeachLoop(eps5).pdb
+C:\xampp\htdocs\Kelas 11 (Naufal)\PerulanganFor_While_dan_ForeachLoop(eps5)\obj\Debug\net10.0\PerulanganFor_While_dan_ForeachLoop(eps5).GeneratedMSBuildEditorConfig.editorconfig
+C:\xampp\htdocs\Kelas 11 (Naufal)\PerulanganFor_While_dan_ForeachLoop(eps5)\obj\Debug\net10.0\PerulanganFor_While_dan_ForeachLoop(eps5).AssemblyInfoInputs.cache
+C:\xampp\htdocs\Kelas 11 (Naufal)\PerulanganFor_While_dan_ForeachLoop(eps5)\obj\Debug\net10.0\PerulanganFor_While_dan_ForeachLoop(eps5).AssemblyInfo.cs
+C:\xampp\htdocs\Kelas 11 (Naufal)\PerulanganFor_While_dan_ForeachLoop(eps5)\obj\Debug\net10.0\PerulanganFor_While_dan_ForeachLoop(eps5).csproj.CoreCompileInputs.cache
+C:\xampp\htdocs\Kelas 11 (Naufal)\PerulanganFor_While_dan_ForeachLoop(eps5)\obj\Debug\net10.0\PerulanganFor_While_dan_ForeachLoop(eps5).dll
+C:\xampp\htdocs\Kelas 11 (Naufal)\PerulanganFor_While_dan_ForeachLoop(eps5)\obj\Debug\net10.0\refint\PerulanganFor_While_dan_ForeachLoop(eps5).dll
+C:\xampp\htdocs\Kelas 11 (Naufal)\PerulanganFor_While_dan_ForeachLoop(eps5)\obj\Debug\net10.0\PerulanganFor_While_dan_ForeachLoop(eps5).pdb
+C:\xampp\htdocs\Kelas 11 (Naufal)\PerulanganFor_While_dan_ForeachLoop(eps5)\obj\Debug\net10.0\PerulanganFor_While_dan_ForeachLoop(eps5).genruntimeconfig.cache
+C:\xampp\htdocs\Kelas 11 (Naufal)\PerulanganFor_While_dan_ForeachLoop(eps5)\obj\Debug\net10.0\ref\PerulanganFor_While_dan_ForeachLoop(eps5).dll
