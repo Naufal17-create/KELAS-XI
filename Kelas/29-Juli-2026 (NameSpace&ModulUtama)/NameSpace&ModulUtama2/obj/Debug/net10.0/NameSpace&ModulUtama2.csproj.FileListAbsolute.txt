@@ -1,0 +1,15 @@
+C:\Kelas-XI (Naufal)\Kelas\NameSpace&ModulUtama2\NameSpace&ModulUtama2\bin\Debug\net10.0\NameSpace&ModulUtama2.exe
+C:\Kelas-XI (Naufal)\Kelas\NameSpace&ModulUtama2\NameSpace&ModulUtama2\bin\Debug\net10.0\NameSpace&ModulUtama2.deps.json
+C:\Kelas-XI (Naufal)\Kelas\NameSpace&ModulUtama2\NameSpace&ModulUtama2\bin\Debug\net10.0\NameSpace&ModulUtama2.runtimeconfig.json
+C:\Kelas-XI (Naufal)\Kelas\NameSpace&ModulUtama2\NameSpace&ModulUtama2\bin\Debug\net10.0\NameSpace&ModulUtama2.dll
+C:\Kelas-XI (Naufal)\Kelas\NameSpace&ModulUtama2\NameSpace&ModulUtama2\bin\Debug\net10.0\NameSpace&ModulUtama2.pdb
+C:\Kelas-XI (Naufal)\Kelas\NameSpace&ModulUtama2\NameSpace&ModulUtama2\obj\Debug\net10.0\NameSpace&ModulUtama2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Kelas-XI (Naufal)\Kelas\NameSpace&ModulUtama2\NameSpace&ModulUtama2\obj\Debug\net10.0\NameSpace&ModulUtama2.AssemblyInfoInputs.cache
+C:\Kelas-XI (Naufal)\Kelas\NameSpace&ModulUtama2\NameSpace&ModulUtama2\obj\Debug\net10.0\NameSpace&ModulUtama2.AssemblyInfo.cs
+C:\Kelas-XI (Naufal)\Kelas\NameSpace&ModulUtama2\NameSpace&ModulUtama2\obj\Debug\net10.0\NameSpace&ModulUtama2.csproj.CoreCompileInputs.cache
+C:\Kelas-XI (Naufal)\Kelas\NameSpace&ModulUtama2\NameSpace&ModulUtama2\obj\Debug\net10.0\NameSpace&ModulUtama2.sourcelink.json
+C:\Kelas-XI (Naufal)\Kelas\NameSpace&ModulUtama2\NameSpace&ModulUtama2\obj\Debug\net10.0\NameSpace&ModulUtama2.dll
+C:\Kelas-XI (Naufal)\Kelas\NameSpace&ModulUtama2\NameSpace&ModulUtama2\obj\Debug\net10.0\refint\NameSpace&ModulUtama2.dll
+C:\Kelas-XI (Naufal)\Kelas\NameSpace&ModulUtama2\NameSpace&ModulUtama2\obj\Debug\net10.0\NameSpace&ModulUtama2.pdb
+C:\Kelas-XI (Naufal)\Kelas\NameSpace&ModulUtama2\NameSpace&ModulUtama2\obj\Debug\net10.0\NameSpace&ModulUtama2.genruntimeconfig.cache
+C:\Kelas-XI (Naufal)\Kelas\NameSpace&ModulUtama2\NameSpace&ModulUtama2\obj\Debug\net10.0\ref\NameSpace&ModulUtama2.dll
