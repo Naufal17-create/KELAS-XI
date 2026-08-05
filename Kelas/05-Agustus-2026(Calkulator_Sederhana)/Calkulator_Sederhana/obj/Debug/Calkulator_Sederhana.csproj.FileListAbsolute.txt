@@ -1,0 +1,10 @@
+C:\Kelas-XI (Naufal)\Kelas\Calkulator_Sederhana\Calkulator_Sederhana\bin\Debug\Calkulator_Sederhana.exe.config
+C:\Kelas-XI (Naufal)\Kelas\Calkulator_Sederhana\Calkulator_Sederhana\bin\Debug\Calkulator_Sederhana.exe
+C:\Kelas-XI (Naufal)\Kelas\Calkulator_Sederhana\Calkulator_Sederhana\bin\Debug\Calkulator_Sederhana.pdb
+C:\Kelas-XI (Naufal)\Kelas\Calkulator_Sederhana\Calkulator_Sederhana\obj\Debug\Calkulator_Sederhana.csproj.AssemblyReference.cache
+C:\Kelas-XI (Naufal)\Kelas\Calkulator_Sederhana\Calkulator_Sederhana\obj\Debug\Calkulator_Sederhana.Form1.resources
+C:\Kelas-XI (Naufal)\Kelas\Calkulator_Sederhana\Calkulator_Sederhana\obj\Debug\Calkulator_Sederhana.Properties.Resources.resources
+C:\Kelas-XI (Naufal)\Kelas\Calkulator_Sederhana\Calkulator_Sederhana\obj\Debug\Calkulator_Sederhana.csproj.GenerateResource.cache
+C:\Kelas-XI (Naufal)\Kelas\Calkulator_Sederhana\Calkulator_Sederhana\obj\Debug\Calkulator_Sederhana.csproj.CoreCompileInputs.cache
+C:\Kelas-XI (Naufal)\Kelas\Calkulator_Sederhana\Calkulator_Sederhana\obj\Debug\Calkulator_Sederhana.exe
+C:\Kelas-XI (Naufal)\Kelas\Calkulator_Sederhana\Calkulator_Sederhana\obj\Debug\Calkulator_Sederhana.pdb
