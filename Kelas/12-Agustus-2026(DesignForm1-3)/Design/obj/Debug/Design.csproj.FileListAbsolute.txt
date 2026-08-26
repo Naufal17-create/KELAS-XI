@@ -1,0 +1,12 @@
+C:\Kelas-XI (Naufal)\Kelas\Design\Design\obj\Debug\Design.csproj.AssemblyReference.cache
+C:\Kelas-XI (Naufal)\Kelas\Design\Design\obj\Debug\Design.Form2Register.resources
+C:\Kelas-XI (Naufal)\Kelas\Design\Design\obj\Debug\Design.Form3Dashboard.resources
+C:\Kelas-XI (Naufal)\Kelas\Design\Design\obj\Debug\Design.Properties.Resources.resources
+C:\Kelas-XI (Naufal)\Kelas\Design\Design\obj\Debug\Design.csproj.GenerateResource.cache
+C:\Kelas-XI (Naufal)\Kelas\Design\Design\obj\Debug\Design.csproj.CoreCompileInputs.cache
+C:\Kelas-XI (Naufal)\Kelas\Design\Design\obj\Debug\Design.Form1.resources
+C:\Kelas-XI (Naufal)\Kelas\Design\Design\bin\Debug\Design.exe.config
+C:\Kelas-XI (Naufal)\Kelas\Design\Design\bin\Debug\Design.exe
+C:\Kelas-XI (Naufal)\Kelas\Design\Design\bin\Debug\Design.pdb
+C:\Kelas-XI (Naufal)\Kelas\Design\Design\obj\Debug\Design.exe
+C:\Kelas-XI (Naufal)\Kelas\Design\Design\obj\Debug\Design.pdb
