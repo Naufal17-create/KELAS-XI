@@ -1,0 +1,11 @@
+C:\Kelas-XI (Naufal)\Kelas\Web Peminjaman Buku\Web Peminjaman Buku\bin\Debug\Web Peminjaman Buku.exe.config
+C:\Kelas-XI (Naufal)\Kelas\Web Peminjaman Buku\Web Peminjaman Buku\bin\Debug\Web Peminjaman Buku.exe
+C:\Kelas-XI (Naufal)\Kelas\Web Peminjaman Buku\Web Peminjaman Buku\bin\Debug\Web Peminjaman Buku.pdb
+C:\Kelas-XI (Naufal)\Kelas\Web Peminjaman Buku\Web Peminjaman Buku\obj\Debug\Web Peminjaman Buku.csproj.AssemblyReference.cache
+C:\Kelas-XI (Naufal)\Kelas\Web Peminjaman Buku\Web Peminjaman Buku\obj\Debug\Web_Peminjaman_Buku.Form1.resources
+C:\Kelas-XI (Naufal)\Kelas\Web Peminjaman Buku\Web Peminjaman Buku\obj\Debug\Web_Peminjaman_Buku.Properties.Resources.resources
+C:\Kelas-XI (Naufal)\Kelas\Web Peminjaman Buku\Web Peminjaman Buku\obj\Debug\Web Peminjaman Buku.csproj.GenerateResource.cache
+C:\Kelas-XI (Naufal)\Kelas\Web Peminjaman Buku\Web Peminjaman Buku\obj\Debug\Web Peminjaman Buku.csproj.CoreCompileInputs.cache
+C:\Kelas-XI (Naufal)\Kelas\Web Peminjaman Buku\Web Peminjaman Buku\obj\Debug\Web Peminjaman Buku.exe
+C:\Kelas-XI (Naufal)\Kelas\Web Peminjaman Buku\Web Peminjaman Buku\obj\Debug\Web Peminjaman Buku.pdb
+C:\Kelas-XI (Naufal)\Kelas\Web Peminjaman Buku\Web Peminjaman Buku\obj\Debug\Web_Peminjaman_Buku.FormBukuDipinjam.resources
