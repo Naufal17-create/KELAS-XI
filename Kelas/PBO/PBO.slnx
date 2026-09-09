@@ -1,0 +1,5 @@
+<Solution>
+  <Project Path="APK Data Siswa/APK Data Siswa.csproj" />
+  <Project Path="Jadwal Pelajaran/Jadwal Pelajaran.csproj" />
+  <Project Path="PBO/PBO.csproj" />
+</Solution>

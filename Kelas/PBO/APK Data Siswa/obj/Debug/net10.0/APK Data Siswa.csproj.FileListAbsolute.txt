@@ -1,0 +1,15 @@
+C:\Kelas-XI (Naufal)\PBO\PBO\APK Data Siswa\bin\Debug\net10.0\APK Data Siswa.exe
+C:\Kelas-XI (Naufal)\PBO\PBO\APK Data Siswa\bin\Debug\net10.0\APK Data Siswa.deps.json
+C:\Kelas-XI (Naufal)\PBO\PBO\APK Data Siswa\bin\Debug\net10.0\APK Data Siswa.runtimeconfig.json
+C:\Kelas-XI (Naufal)\PBO\PBO\APK Data Siswa\bin\Debug\net10.0\APK Data Siswa.dll
+C:\Kelas-XI (Naufal)\PBO\PBO\APK Data Siswa\bin\Debug\net10.0\APK Data Siswa.pdb
+C:\Kelas-XI (Naufal)\PBO\PBO\APK Data Siswa\obj\Debug\net10.0\APK Data Siswa.GeneratedMSBuildEditorConfig.editorconfig
+C:\Kelas-XI (Naufal)\PBO\PBO\APK Data Siswa\obj\Debug\net10.0\APK Data Siswa.AssemblyInfoInputs.cache
+C:\Kelas-XI (Naufal)\PBO\PBO\APK Data Siswa\obj\Debug\net10.0\APK Data Siswa.AssemblyInfo.cs
+C:\Kelas-XI (Naufal)\PBO\PBO\APK Data Siswa\obj\Debug\net10.0\APK Data Siswa.csproj.CoreCompileInputs.cache
+C:\Kelas-XI (Naufal)\PBO\PBO\APK Data Siswa\obj\Debug\net10.0\APK Data Siswa.sourcelink.json
+C:\Kelas-XI (Naufal)\PBO\PBO\APK Data Siswa\obj\Debug\net10.0\APK Data Siswa.dll
+C:\Kelas-XI (Naufal)\PBO\PBO\APK Data Siswa\obj\Debug\net10.0\refint\APK Data Siswa.dll
+C:\Kelas-XI (Naufal)\PBO\PBO\APK Data Siswa\obj\Debug\net10.0\APK Data Siswa.pdb
+C:\Kelas-XI (Naufal)\PBO\PBO\APK Data Siswa\obj\Debug\net10.0\APK Data Siswa.genruntimeconfig.cache
+C:\Kelas-XI (Naufal)\PBO\PBO\APK Data Siswa\obj\Debug\net10.0\ref\APK Data Siswa.dll

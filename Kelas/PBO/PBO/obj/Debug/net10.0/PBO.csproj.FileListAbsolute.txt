@@ -1,0 +1,15 @@
+C:\Kelas-XI (Naufal)\PBO\PBO\PBO\bin\Debug\net10.0\PBO.exe
+C:\Kelas-XI (Naufal)\PBO\PBO\PBO\bin\Debug\net10.0\PBO.deps.json
+C:\Kelas-XI (Naufal)\PBO\PBO\PBO\bin\Debug\net10.0\PBO.runtimeconfig.json
+C:\Kelas-XI (Naufal)\PBO\PBO\PBO\bin\Debug\net10.0\PBO.dll
+C:\Kelas-XI (Naufal)\PBO\PBO\PBO\bin\Debug\net10.0\PBO.pdb
+C:\Kelas-XI (Naufal)\PBO\PBO\PBO\obj\Debug\net10.0\PBO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Kelas-XI (Naufal)\PBO\PBO\PBO\obj\Debug\net10.0\PBO.AssemblyInfoInputs.cache
+C:\Kelas-XI (Naufal)\PBO\PBO\PBO\obj\Debug\net10.0\PBO.AssemblyInfo.cs
+C:\Kelas-XI (Naufal)\PBO\PBO\PBO\obj\Debug\net10.0\PBO.csproj.CoreCompileInputs.cache
+C:\Kelas-XI (Naufal)\PBO\PBO\PBO\obj\Debug\net10.0\PBO.sourcelink.json
+C:\Kelas-XI (Naufal)\PBO\PBO\PBO\obj\Debug\net10.0\PBO.dll
+C:\Kelas-XI (Naufal)\PBO\PBO\PBO\obj\Debug\net10.0\refint\PBO.dll
+C:\Kelas-XI (Naufal)\PBO\PBO\PBO\obj\Debug\net10.0\PBO.pdb
+C:\Kelas-XI (Naufal)\PBO\PBO\PBO\obj\Debug\net10.0\PBO.genruntimeconfig.cache
+C:\Kelas-XI (Naufal)\PBO\PBO\PBO\obj\Debug\net10.0\ref\PBO.dll
