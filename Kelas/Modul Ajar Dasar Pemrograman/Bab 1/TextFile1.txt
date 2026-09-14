@@ -1,0 +1,34 @@
+Penjelasan Kode:
+ using System: memanggil pustaka System.
+ class Program: mendefinisikan kelas.
+ Main(): titik awal eksekusi program.
+ Console.WriteLine(): menampilkan teks ke layar.
+
+Latihan:
+
+1. Perbedaan Hardware dan Software ?
+Hardware (Perangkat Keras) adalah komponen fisik dari komputer yang dapat dilihat, disentuh, dan dirasakan secara nyata. Fungsinya adalah menerima input, memproses data, menampilkan output, serta menyimpan informasi secara fisik. Contoh hardware meliputi Monitor, Keyboard, CPU, RAM, Harddisk, dan Mouse.
+
+Software (Perangkat Lunak) adalah kumpulan instruksi, data, atau program elektronik yang memberi tahu komputer cara bekerja. Software tidak memiliki wujud fisik dan bertugas mengontrol hardware untuk menjalankan tugas-tugas tertentu. Contoh software meliputi Sistem Operasi Windows, Microsoft Word, WhatsApp, Google Chrome, dan C# Compiler.
+
+2. Lima Bahasa Pemrograman ?
+C# (digunakan untuk aplikasi Windows, game Unity, dan web/cloud)
+
+Python (populer untuk kecerdasan buatan/AI, analisis data, dan backend web)
+
+Java (banyak digunakan untuk aplikasi Android dan sistem enterprise)
+
+JavaScript (bahasa utama untuk pengembangan web interaktif)
+
+C++ (digunakan untuk sistem operasi, driver, dan game performa tinggi)
+
+3. Program Hello World Menggunakan C#
+using System;
+
+class Program
+{
+    static void Main(string[] args)
+    {
+        Console.WriteLine("Hello World");
+    }
+}
