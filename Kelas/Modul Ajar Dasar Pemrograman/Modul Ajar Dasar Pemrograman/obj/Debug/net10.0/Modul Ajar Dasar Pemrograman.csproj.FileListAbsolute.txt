@@ -1,0 +1,45 @@
+C:\Kelas-XI (Naufal)\Modul Ajar\Modul Ajar Dasar Pemrograman\Modul Ajar Dasar Pemrograman\bin\Debug\net10.0\Modul Ajar Dasar Pemrograman.exe
+C:\Kelas-XI (Naufal)\Modul Ajar\Modul Ajar Dasar Pemrograman\Modul Ajar Dasar Pemrograman\bin\Debug\net10.0\Modul Ajar Dasar Pemrograman.deps.json
+C:\Kelas-XI (Naufal)\Modul Ajar\Modul Ajar Dasar Pemrograman\Modul Ajar Dasar Pemrograman\bin\Debug\net10.0\Modul Ajar Dasar Pemrograman.runtimeconfig.json
+C:\Kelas-XI (Naufal)\Modul Ajar\Modul Ajar Dasar Pemrograman\Modul Ajar Dasar Pemrograman\bin\Debug\net10.0\Modul Ajar Dasar Pemrograman.dll
+C:\Kelas-XI (Naufal)\Modul Ajar\Modul Ajar Dasar Pemrograman\Modul Ajar Dasar Pemrograman\bin\Debug\net10.0\Modul Ajar Dasar Pemrograman.pdb
+C:\Kelas-XI (Naufal)\Modul Ajar\Modul Ajar Dasar Pemrograman\Modul Ajar Dasar Pemrograman\obj\Debug\net10.0\Modul Ajar Dasar Pemrograman.GeneratedMSBuildEditorConfig.editorconfig
+C:\Kelas-XI (Naufal)\Modul Ajar\Modul Ajar Dasar Pemrograman\Modul Ajar Dasar Pemrograman\obj\Debug\net10.0\Modul Ajar Dasar Pemrograman.AssemblyInfoInputs.cache
+C:\Kelas-XI (Naufal)\Modul Ajar\Modul Ajar Dasar Pemrograman\Modul Ajar Dasar Pemrograman\obj\Debug\net10.0\Modul Ajar Dasar Pemrograman.AssemblyInfo.cs
+C:\Kelas-XI (Naufal)\Modul Ajar\Modul Ajar Dasar Pemrograman\Modul Ajar Dasar Pemrograman\obj\Debug\net10.0\Modul Ajar Dasar Pemrograman.csproj.CoreCompileInputs.cache
+C:\Kelas-XI (Naufal)\Modul Ajar\Modul Ajar Dasar Pemrograman\Modul Ajar Dasar Pemrograman\obj\Debug\net10.0\Modul Ajar Dasar Pemrograman.sourcelink.json
+C:\Kelas-XI (Naufal)\Modul Ajar\Modul Ajar Dasar Pemrograman\Modul Ajar Dasar Pemrograman\obj\Debug\net10.0\Modul Ajar Dasar Pemrograman.dll
+C:\Kelas-XI (Naufal)\Modul Ajar\Modul Ajar Dasar Pemrograman\Modul Ajar Dasar Pemrograman\obj\Debug\net10.0\refint\Modul Ajar Dasar Pemrograman.dll
+C:\Kelas-XI (Naufal)\Modul Ajar\Modul Ajar Dasar Pemrograman\Modul Ajar Dasar Pemrograman\obj\Debug\net10.0\Modul Ajar Dasar Pemrograman.pdb
+C:\Kelas-XI (Naufal)\Modul Ajar\Modul Ajar Dasar Pemrograman\Modul Ajar Dasar Pemrograman\obj\Debug\net10.0\Modul Ajar Dasar Pemrograman.genruntimeconfig.cache
+C:\Kelas-XI (Naufal)\Modul Ajar\Modul Ajar Dasar Pemrograman\Modul Ajar Dasar Pemrograman\obj\Debug\net10.0\ref\Modul Ajar Dasar Pemrograman.dll
+C:\Kelas-XI (Naufal)\Modul Ajar Dasar Pemrograman Asli\Modul Ajar Dasar Pemrograman\Modul Ajar Dasar Pemrograman\bin\Debug\net10.0\Modul Ajar Dasar Pemrograman.exe
+C:\Kelas-XI (Naufal)\Modul Ajar Dasar Pemrograman Asli\Modul Ajar Dasar Pemrograman\Modul Ajar Dasar Pemrograman\bin\Debug\net10.0\Modul Ajar Dasar Pemrograman.deps.json
+C:\Kelas-XI (Naufal)\Modul Ajar Dasar Pemrograman Asli\Modul Ajar Dasar Pemrograman\Modul Ajar Dasar Pemrograman\bin\Debug\net10.0\Modul Ajar Dasar Pemrograman.runtimeconfig.json
+C:\Kelas-XI (Naufal)\Modul Ajar Dasar Pemrograman Asli\Modul Ajar Dasar Pemrograman\Modul Ajar Dasar Pemrograman\bin\Debug\net10.0\Modul Ajar Dasar Pemrograman.dll
+C:\Kelas-XI (Naufal)\Modul Ajar Dasar Pemrograman Asli\Modul Ajar Dasar Pemrograman\Modul Ajar Dasar Pemrograman\bin\Debug\net10.0\Modul Ajar Dasar Pemrograman.pdb
+C:\Kelas-XI (Naufal)\Modul Ajar Dasar Pemrograman Asli\Modul Ajar Dasar Pemrograman\Modul Ajar Dasar Pemrograman\obj\Debug\net10.0\Modul Ajar Dasar Pemrograman.GeneratedMSBuildEditorConfig.editorconfig
+C:\Kelas-XI (Naufal)\Modul Ajar Dasar Pemrograman Asli\Modul Ajar Dasar Pemrograman\Modul Ajar Dasar Pemrograman\obj\Debug\net10.0\Modul Ajar Dasar Pemrograman.AssemblyInfoInputs.cache
+C:\Kelas-XI (Naufal)\Modul Ajar Dasar Pemrograman Asli\Modul Ajar Dasar Pemrograman\Modul Ajar Dasar Pemrograman\obj\Debug\net10.0\Modul Ajar Dasar Pemrograman.AssemblyInfo.cs
+C:\Kelas-XI (Naufal)\Modul Ajar Dasar Pemrograman Asli\Modul Ajar Dasar Pemrograman\Modul Ajar Dasar Pemrograman\obj\Debug\net10.0\Modul Ajar Dasar Pemrograman.csproj.CoreCompileInputs.cache
+C:\Kelas-XI (Naufal)\Modul Ajar Dasar Pemrograman Asli\Modul Ajar Dasar Pemrograman\Modul Ajar Dasar Pemrograman\obj\Debug\net10.0\Modul Ajar Dasar Pemrograman.sourcelink.json
+C:\Kelas-XI (Naufal)\Modul Ajar Dasar Pemrograman Asli\Modul Ajar Dasar Pemrograman\Modul Ajar Dasar Pemrograman\obj\Debug\net10.0\Modul Ajar Dasar Pemrograman.dll
+C:\Kelas-XI (Naufal)\Modul Ajar Dasar Pemrograman Asli\Modul Ajar Dasar Pemrograman\Modul Ajar Dasar Pemrograman\obj\Debug\net10.0\refint\Modul Ajar Dasar Pemrograman.dll
+C:\Kelas-XI (Naufal)\Modul Ajar Dasar Pemrograman Asli\Modul Ajar Dasar Pemrograman\Modul Ajar Dasar Pemrograman\obj\Debug\net10.0\Modul Ajar Dasar Pemrograman.pdb
+C:\Kelas-XI (Naufal)\Modul Ajar Dasar Pemrograman Asli\Modul Ajar Dasar Pemrograman\Modul Ajar Dasar Pemrograman\obj\Debug\net10.0\Modul Ajar Dasar Pemrograman.genruntimeconfig.cache
+C:\Kelas-XI (Naufal)\Modul Ajar Dasar Pemrograman Asli\Modul Ajar Dasar Pemrograman\Modul Ajar Dasar Pemrograman\obj\Debug\net10.0\ref\Modul Ajar Dasar Pemrograman.dll
+C:\Kelas-XI (Naufal)\Modul Ajar Dasar Pemrograman\Modul Ajar Dasar Pemrograman\Modul Ajar Dasar Pemrograman\bin\Debug\net10.0\Modul Ajar Dasar Pemrograman.exe
+C:\Kelas-XI (Naufal)\Modul Ajar Dasar Pemrograman\Modul Ajar Dasar Pemrograman\Modul Ajar Dasar Pemrograman\bin\Debug\net10.0\Modul Ajar Dasar Pemrograman.deps.json
+C:\Kelas-XI (Naufal)\Modul Ajar Dasar Pemrograman\Modul Ajar Dasar Pemrograman\Modul Ajar Dasar Pemrograman\bin\Debug\net10.0\Modul Ajar Dasar Pemrograman.runtimeconfig.json
+C:\Kelas-XI (Naufal)\Modul Ajar Dasar Pemrograman\Modul Ajar Dasar Pemrograman\Modul Ajar Dasar Pemrograman\bin\Debug\net10.0\Modul Ajar Dasar Pemrograman.dll
+C:\Kelas-XI (Naufal)\Modul Ajar Dasar Pemrograman\Modul Ajar Dasar Pemrograman\Modul Ajar Dasar Pemrograman\bin\Debug\net10.0\Modul Ajar Dasar Pemrograman.pdb
+C:\Kelas-XI (Naufal)\Modul Ajar Dasar Pemrograman\Modul Ajar Dasar Pemrograman\Modul Ajar Dasar Pemrograman\obj\Debug\net10.0\Modul Ajar Dasar Pemrograman.GeneratedMSBuildEditorConfig.editorconfig
+C:\Kelas-XI (Naufal)\Modul Ajar Dasar Pemrograman\Modul Ajar Dasar Pemrograman\Modul Ajar Dasar Pemrograman\obj\Debug\net10.0\Modul Ajar Dasar Pemrograman.AssemblyInfoInputs.cache
+C:\Kelas-XI (Naufal)\Modul Ajar Dasar Pemrograman\Modul Ajar Dasar Pemrograman\Modul Ajar Dasar Pemrograman\obj\Debug\net10.0\Modul Ajar Dasar Pemrograman.AssemblyInfo.cs
+C:\Kelas-XI (Naufal)\Modul Ajar Dasar Pemrograman\Modul Ajar Dasar Pemrograman\Modul Ajar Dasar Pemrograman\obj\Debug\net10.0\Modul Ajar Dasar Pemrograman.csproj.CoreCompileInputs.cache
+C:\Kelas-XI (Naufal)\Modul Ajar Dasar Pemrograman\Modul Ajar Dasar Pemrograman\Modul Ajar Dasar Pemrograman\obj\Debug\net10.0\Modul Ajar Dasar Pemrograman.sourcelink.json
+C:\Kelas-XI (Naufal)\Modul Ajar Dasar Pemrograman\Modul Ajar Dasar Pemrograman\Modul Ajar Dasar Pemrograman\obj\Debug\net10.0\Modul Ajar Dasar Pemrograman.dll
+C:\Kelas-XI (Naufal)\Modul Ajar Dasar Pemrograman\Modul Ajar Dasar Pemrograman\Modul Ajar Dasar Pemrograman\obj\Debug\net10.0\refint\Modul Ajar Dasar Pemrograman.dll
+C:\Kelas-XI (Naufal)\Modul Ajar Dasar Pemrograman\Modul Ajar Dasar Pemrograman\Modul Ajar Dasar Pemrograman\obj\Debug\net10.0\Modul Ajar Dasar Pemrograman.pdb
+C:\Kelas-XI (Naufal)\Modul Ajar Dasar Pemrograman\Modul Ajar Dasar Pemrograman\Modul Ajar Dasar Pemrograman\obj\Debug\net10.0\Modul Ajar Dasar Pemrograman.genruntimeconfig.cache
+C:\Kelas-XI (Naufal)\Modul Ajar Dasar Pemrograman\Modul Ajar Dasar Pemrograman\Modul Ajar Dasar Pemrograman\obj\Debug\net10.0\ref\Modul Ajar Dasar Pemrograman.dll
